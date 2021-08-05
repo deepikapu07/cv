@@ -1,2 +1,2 @@
 # cv
-This is my resume.
+This is my resume. Still WIP.
